@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'test-deploy';
+  public name= "Sheetal marko";
+ public message="";
+ public work ="developer";
 }
